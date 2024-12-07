@@ -1,0 +1,46 @@
+.div
+{
+    margin: 50px;
+    border: 10px double black;
+    height: 80px;
+    width: 80px;
+    margin: 10px;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.main
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    /*height: 200px;
+    width: 200px;*/
+    
+    
+}
+.winner
+{
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+    .main1
+    {
+        margin: 50px;
+    }
+
+.fst-italic{
+    property: vertical-align,
+    class: align,
+    values: baseline top middle bottom text-bottom text-top
+}
+.box
+{
+    
+}
